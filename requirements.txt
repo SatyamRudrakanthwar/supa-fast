@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pandas
+opencv-python
+pillow
+torch
+torchvision
+ultralytics
+supervision
+scikit-learn
+scikit-image  
+matplotlib
+webcolors
+python-multipart
+supabase

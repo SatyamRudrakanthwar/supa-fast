@@ -1,0 +1,22 @@
+# Ignore environment files
+.env
+*.env
+
+# Ignore config files with secrets
+config.json
+secrets.json
+
+# Ignore Python cache & venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
